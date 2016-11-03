@@ -1,0 +1,217 @@
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\ApplicationInsights.config
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\csc.exe
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\vbc.exe
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll.config
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.pdb
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.pdb
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.xml
+C:\Users\Ryanwall5\documents\visual studio 2015\Projects\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\ApplicationInsights.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\csc.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\vbc.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.pdb
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.csprojResolveAssemblyReference.cache
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.pdb
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab2\week2lab2\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\ApplicationInsights.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\csc.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\vbc.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.pdb
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.csprojResolveAssemblyReference.cache
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\Lab3\week3lab3\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.pdb
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\ApplicationInsights.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\csc.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\vbc.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll.config
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Lab2_RyanWall.pdb
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.Web.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Razor.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Helpers.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\bin\System.Web.Mvc.xml
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.csprojResolveAssemblyReference.cache
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.dll
+C:\Users\Ryanwall5\Desktop\CST 356 Web Design\lab5\week5lab5\Lab2_RyanWall\Lab2_RyanWall\obj\Debug\Lab2_RyanWall.pdb
